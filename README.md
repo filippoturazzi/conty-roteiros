@@ -182,3 +182,8 @@ curl -s -X POST localhost:3003/scripts/scr_1/approve
 - **Fuso fixo.** `America/Sao_Paulo` está no código porque o enunciado define assim. Com marcas em outros fusos, o fuso seria um campo da marca.
 - **Sem dependências.** Usei `node:http` e `node:test` em vez de um framework, para a API rodar sem instalar nada. Num projeto real, eu usaria um framework HTTP com validação de schema.
 - **Fora do escopo, como pede o enunciado:** vídeo, upload, interface, notificações e listagem de roteiros.
+
+
+## IA
+
+- A IA foi responsável por analisar o problema e desenvolver uma solução de código utilizando a stack dos outros desafios, eu implementei o código desenvolvido pela IA verificando e revisando ele por completo, todas as partes, realizei diversos testes e certifiquei de que estava tudo de funcionando e de acordo com o solicitado.
